@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Application-Form-Live/static/css/main.f13a830a.chunk.css",
+    "main.js": "/Application-Form-Live/static/js/main.9c2c8c8d.chunk.js",
+    "main.js.map": "/Application-Form-Live/static/js/main.9c2c8c8d.chunk.js.map",
+    "runtime-main.js": "/Application-Form-Live/static/js/runtime-main.98343f45.js",
+    "runtime-main.js.map": "/Application-Form-Live/static/js/runtime-main.98343f45.js.map",
+    "static/css/2.69121389.chunk.css": "/Application-Form-Live/static/css/2.69121389.chunk.css",
+    "static/js/2.6ce22fce.chunk.js": "/Application-Form-Live/static/js/2.6ce22fce.chunk.js",
+    "static/js/2.6ce22fce.chunk.js.map": "/Application-Form-Live/static/js/2.6ce22fce.chunk.js.map",
+    "index.html": "/Application-Form-Live/index.html",
+    "precache-manifest.2113c0a466753e993d89c26acb713fb5.js": "/Application-Form-Live/precache-manifest.2113c0a466753e993d89c26acb713fb5.js",
+    "service-worker.js": "/Application-Form-Live/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/Application-Form-Live/static/css/2.69121389.chunk.css.map",
+    "static/css/main.f13a830a.chunk.css.map": "/Application-Form-Live/static/css/main.f13a830a.chunk.css.map",
+    "static/js/2.6ce22fce.chunk.js.LICENSE.txt": "/Application-Form-Live/static/js/2.6ce22fce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98343f45.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.6ce22fce.chunk.js",
+    "static/css/main.f13a830a.chunk.css",
+    "static/js/main.9c2c8c8d.chunk.js"
+  ]
+}
